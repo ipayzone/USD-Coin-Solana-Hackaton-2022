@@ -32,3 +32,9 @@ https://solscan.io/ to monitor the balances and obtain the transactions, and
 it could be speed up by connecting directly to a node to obtain the early
 changes in the account and deposits.
 
+Project Video:
+https://youtu.be/oNOpWVkN3jo
+
+
+
+
