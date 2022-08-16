@@ -14,6 +14,10 @@ The code has been incorporated in the Technoprepay's point of sale terminal
 which you can download soon from google play using this link:
 https://play.google.com/store/apps/details?id=com.technoprepay.solanapos
 
+Note Aug 15, 2022, still under review by google play, if shows not release, you
+can try to download the APK from this link
+https://drive.google.com/file/d/1ksQHXGc0gzGnsJJXFIVmdf_rnEqNOSsX/view?usp=sharing
+
 The application works on a regular Android phone and can interface with an optional
 bluetooth receipt printer. It also works on Android Point of Sale terminals.
 The Application has been tested with Sumni V2 POS and Wisenet N5 POS, those are
